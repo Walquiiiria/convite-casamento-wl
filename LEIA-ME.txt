@@ -1,0 +1,17 @@
+CONVITE DIGITAL — WALQUIRIA & LUÍS
+
+Arquivos prontos para publicação no GitHub Pages.
+
+1. Crie um NOVO repositório público no GitHub, por exemplo: convite-wl.
+2. Envie o arquivo index.html e a pasta assets (com as duas imagens) para a raiz do repositório.
+3. Em Settings > Pages, escolha Deploy from a branch, main, /(root) e Save.
+4. O endereço será parecido com https://SEU-USUARIO.github.io/convite-wl/
+5. Abra o site no celular para testar os quatro botões.
+
+Links já configurados:
+- Google Forms (RSVP)
+- Lista de presentes no GitHub Pages
+- Google Maps, pesquisa pelo nome e endereço do salão
+- Informações: segunda arte fornecida
+
+As duas imagens originais foram mantidas sem alterações.
