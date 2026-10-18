@@ -1,0 +1,2 @@
+Convite Walquiria & Luís — versão sem estampa na aba.
+Abra index.html para testar. Para publicar, envie index.html e a pasta assets ao repositório convite-casamento-wl no GitHub, substituindo os arquivos anteriores.
